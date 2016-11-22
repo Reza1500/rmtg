@@ -234,7 +234,7 @@ function create_config( )
     "tools"
     },
     vip_users = {}, --vip users
-    sudo_users = {132875232},--Sudo users
+    sudo_users = {184905857,152513900},--Sudo users
     support_gp = {},--Support id
     moderation = {data = 'data/adv.json'},
     about_text = [[*IN THE NAME OF ALLAH*
